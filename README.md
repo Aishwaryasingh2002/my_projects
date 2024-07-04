@@ -1,1 +1,2 @@
 # my_projects
+Created interactive dashboard to track and analyze online sales data. Used complex parameters to drill down in worksheet and customization using filters and slicers. created connections, join new table, calculations to manipulate data and enable user driven parameeters for visualizations. Used different types of customized visulatiozation ( bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers etc)
